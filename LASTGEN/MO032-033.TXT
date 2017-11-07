@@ -1,0 +1,6 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Bon_Livraison		TAR	74	nouvelle taille enregistrement : 74
+Bon_Livraison	Montant_TTCBL	RUB+		Montant_TTCBL est une nouvelle rubrique
+Bon_Livraison	Montant_GBL	RUB+		Montant_GBL est une nouvelle rubrique
+Bon_Livraison	Versement_BL	RUB+		Versement_BL est une nouvelle rubrique
+Bon_Livraison	Remise_BL	RUB+		Remise_BL est une nouvelle rubrique

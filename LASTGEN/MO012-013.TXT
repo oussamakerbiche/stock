@@ -1,0 +1,4 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Fournisseurs		NFI		nouveau fichier
+Produits		NFI		nouveau fichier
+Fournisseurs		NWL	Fournisseurs (IDFournisseurs) et Produits (IDFournisseurs)	Nouvelle liaison entre les fichiers Fournisseurs (IDFournisseurs) et Produits (IDFournisseurs)

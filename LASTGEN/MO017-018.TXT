@@ -1,0 +1,4 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Produits		TAR	119	nouvelle taille enregistrement : 119
+Produits	IDFournisseurs	RUB-		la clé IDFournisseurs est supprimée
+Fournisseurs		DEL	Fournisseurs (IDFournisseurs) et Produits (IDFournisseurs)	Liaison supprimée entre les fichiers Fournisseurs (IDFournisseurs) et Produits (IDFournisseurs)

@@ -1,0 +1,6 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Bon_Livraison		NFI		nouveau fichier
+ligne_BL		NFI		nouveau fichier
+Facture		NWL	Facture (IDFacture) et Bon_Livraison (IDFacture)	Nouvelle liaison entre les fichiers Facture (IDFacture) et Bon_Livraison (IDFacture)
+Bon_Livraison		NWL	Bon_Livraison (IDBon_Livraison) et ligne_BL (IDBon_Livraison)	Nouvelle liaison entre les fichiers Bon_Livraison (IDBon_Livraison) et ligne_BL (IDBon_Livraison)
+Stock		NWL	Stock (IDStock) et ligne_BL (IDStock)	Nouvelle liaison entre les fichiers Stock (IDStock) et ligne_BL (IDStock)

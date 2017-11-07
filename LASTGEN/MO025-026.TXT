@@ -1,0 +1,10 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Facture		TAR	136	nouvelle taille enregistrement : 136
+Facture	IDClients	RUB+		IDClients est une nouvelle clé
+ligne_facture		TAR	186	nouvelle taille enregistrement : 186
+ligne_facture	montanttva_facture	RUB+		montanttva_facture est une nouvelle rubrique
+ligne_facture	IDFacture	RUB+		IDFacture est une nouvelle clé
+ligne_facture	IDStock	RUB+		IDStock est une nouvelle clé
+Clients		NWL	Clients (IDClients) et Facture (IDClients)	Nouvelle liaison entre les fichiers Clients (IDClients) et Facture (IDClients)
+Facture		NWL	Facture (IDFacture) et ligne_facture (IDFacture)	Nouvelle liaison entre les fichiers Facture (IDFacture) et ligne_facture (IDFacture)
+Stock		NWL	Stock (IDStock) et ligne_facture (IDStock)	Nouvelle liaison entre les fichiers Stock (IDStock) et ligne_facture (IDStock)

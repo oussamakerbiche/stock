@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Fournisseurs		TAR	384	nouvelle taille enregistrement : 384
+Fournisseurs	date_entreFournisseur	RUB+		date_entreFournisseur est une nouvelle rubrique

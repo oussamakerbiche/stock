@@ -1,0 +1,17 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Facture		TAR	74	nouvelle taille enregistrement : 74
+Facture	montant_HTFacture	RUB+		montant_HTFacture est une nouvelle rubrique
+Facture	Montant_TVAFacture	RUB+		Montant_TVAFacture est une nouvelle rubrique
+Facture	Timbre_Facture	RUB+		Timbre_Facture est une nouvelle rubrique
+Facture	Montant_TTCFacture	RUB+		Montant_TTCFacture est une nouvelle rubrique
+Facture	Montant_htligneF	RUB-		la rubrique Montant_htligneF est supprimée
+ligne_facture		TAR	104	nouvelle taille enregistrement : 104
+ligne_facture	remise_ligneF	RUB-		la rubrique remise_ligneF est supprimée
+ligne_facture	Montant_remiseLigneF	RUB-		la rubrique Montant_remiseLigneF est supprimée
+ligne_BL		TAR	125	nouvelle taille enregistrement : 125
+ligne_BL	qte_ligneBL	RUB+		qte_ligneBL est une nouvelle rubrique
+ligne_BL	Montant_htligneBL	RUB+		Montant_htligneBL est une nouvelle rubrique
+ligne_BL	remise_ligneBL	RUB+		remise_ligneBL est une nouvelle rubrique
+ligne_BL	montant_tvaLigneBL	RUB+		montant_tvaLigneBL est une nouvelle rubrique
+ligne_BL	montant_remiseLigneBL	RUB+		montant_remiseLigneBL est une nouvelle rubrique
+ligne_BL	qte_bonlivraison	RUB-		la rubrique qte_bonlivraison est supprimée

@@ -1,0 +1,15 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Facture		TAR	85	nouvelle taille enregistrement : 85
+Facture	Montant_htligneF	NNR	type_facture	ATTENTION : la rubrique type_facture a pour nouveau nom Montant_htligneF
+Facture	mode_reglement	RUB-		la rubrique mode_reglement est supprimée
+ligne_facture		TAR	125	nouvelle taille enregistrement : 125
+ligne_facture	qte_ligneF	NNR	qte_facture	ATTENTION : la rubrique qte_facture a pour nouveau nom qte_ligneF
+ligne_facture	Montant_htligneF	NNR	prix_htfacture	ATTENTION : la rubrique prix_htfacture a pour nouveau nom Montant_htligneF
+ligne_facture	Montant_htligneF	CNW	Monétaire$Chaîne	la rubrique Montant_htligneF a pour nouveau type Monétaire
+ligne_facture	remise_ligneF	NNR	remise_facture	ATTENTION : la rubrique remise_facture a pour nouveau nom remise_ligneF
+ligne_facture	remise_ligneF	CNW	Monétaire$Chaîne	la rubrique remise_ligneF a pour nouveau type Monétaire
+ligne_facture	montanttva_ligneF	NNR	montanttva_facture	ATTENTION : la rubrique montanttva_facture a pour nouveau nom montanttva_ligneF
+ligne_facture	montanttva_ligneF	CNW	Monétaire$Chaîne	la rubrique montanttva_ligneF a pour nouveau type Monétaire
+ligne_facture	Montant_remiseLigneF	NNR	Timbre_Facture	ATTENTION : la rubrique Timbre_Facture a pour nouveau nom Montant_remiseLigneF
+ligne_facture	Montant_remiseLigneF	CNW	Monétaire$Chaîne	la rubrique Montant_remiseLigneF a pour nouveau type Monétaire
+ligne_facture	netPayer_Facture	RUB-		la rubrique netPayer_Facture est supprimée

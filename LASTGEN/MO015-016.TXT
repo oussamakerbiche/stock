@@ -1,0 +1,3 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Fournisseurs	raison_sociale	CLEN*		la rubrique raison_sociale est maintenant une clé
+Fournisseurs	tel_fournisseur	CLEN*		la rubrique tel_fournisseur est maintenant une clé

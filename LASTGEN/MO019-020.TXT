@@ -1,0 +1,2 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+Contrainte_Fournisseurs_Produits		MCL	1,1->0,1	

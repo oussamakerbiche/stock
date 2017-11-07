@@ -1,0 +1,4 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Produits		TAR	127	nouvelle taille enregistrement : 127
+Produits	IDFournisseurs	RUB+		IDFournisseurs est une nouvelle clé
+Fournisseurs		NWL	Fournisseurs (IDFournisseurs) et Produits (IDFournisseurs)	Nouvelle liaison entre les fichiers Fournisseurs (IDFournisseurs) et Produits (IDFournisseurs)

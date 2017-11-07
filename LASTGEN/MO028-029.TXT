@@ -1,0 +1,6 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Clients		TAR	395	nouvelle taille enregistrement : 395
+Clients	NRC_Client	RUB+		NRC_Client est une nouvelle rubrique
+Clients	NIF_Client	RUB+		NIF_Client est une nouvelle rubrique
+Clients	NArticle_Client	RUB+		NArticle_Client est une nouvelle rubrique
+Clients	NIS_Client	RUB+		NIS_Client est une nouvelle rubrique
